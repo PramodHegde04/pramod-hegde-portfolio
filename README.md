@@ -23,6 +23,6 @@ For local development, VS Code Live Server can also be used.
 
 Replace:
 
-`Images/photo-placeholder.svg`
+`Images/pramod5.png`
 
 with the professional photo when ready, then update the image source in `index.html` if the filename changes.
